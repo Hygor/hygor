@@ -1,8 +1,4 @@
-## Hello👋 I'm Hygor Budny.
-## I design and code digital stuff.
-<br />
-
----
+# Hi 👋 I'm Hygor Budny.<br/>I design and code digital stuff.
 
 <br />
 I’m a User Interface Designer and Front-End Developer, focused on building great interactive human experiences to the digital world.
