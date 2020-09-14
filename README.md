@@ -1,4 +1,5 @@
 # Hi 👋 I'm Hygor Budny.<br/>I design and code digital stuff.
+[![Website Badge](https://img.shields.io/badge/-working%20from%20home-khaki?style=flat&link=https://hygorbudny.com/)](https://hygorbudny.com/) 
 
 <br />
 I’m a User Interface Designer and Front-End Developer, focused on building great interactive human experiences to the digital world.
@@ -25,4 +26,4 @@ I’m always interested in meeting people and discover new challenging opportuni
 
 [![Github Badge](https://img.shields.io/badge/-hygor-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hygor/)](https://www.github.com/hygor/) 
 [![Dribbble Badge](https://img.shields.io/badge/-hygor-grey?style=flat&logo=dribbble&logoColor=white&link=https://dribbble.com/hygor/)](https://dribbble.com/hygor/) 
-[![Linkedin Badge](https://img.shields.io/badge/-hygor-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hygorbudny/)](https://www.linkedin.com/in/hygorbudny/)
+[![Linkedin Badge](https://img.shields.io/badge/-hygor-grey?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hygorbudny/)](https://www.linkedin.com/in/hygorbudny/)
