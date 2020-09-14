@@ -1,5 +1,5 @@
 # Hi 👋 I'm Hygor Budny.<br/>I design and code digital stuff.
-[![Website Badge](https://img.shields.io/badge/-working%20from%20home-khaki?style=flat&link=https://hygorbudny.com/)](https://hygorbudny.com/) 
+[![Website Badge](https://img.shields.io/badge/-working%20from%20home-fff5b1?style=flat&link=https://hygorbudny.com/)](https://hygorbudny.com/) 
 
 <br />
 I’m a User Interface Designer and Front-End Developer, focused on building great interactive human experiences to the digital world.
