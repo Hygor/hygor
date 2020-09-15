@@ -16,15 +16,12 @@ I prefer to hand-code my designs, and I like to do that with modern HTML, CSS, a
 <br />
 <br />
 
-### **I'm Currently [![See my Resume](https://img.shields.io/badge/-open%20to%20new%20opportunities-00fa9a?style=flat)](https://github.com/Hygor/hygor/wiki/Hygor-Budny-CV)**
-
-[Take a look at my Resume](https://github.com/Hygor/hygor/wiki/Hygor-Budny-CV).
-
-
 ### **Let's connect**
 
 I’m always interested in meeting people and discover new challenging opportunities. 
-[Feel free to talk to me!](https://reach.at/hygorbudny)
+
+- [Take a look at my Resume](https://github.com/Hygor/hygor/wiki/Resume).
+- [Feel free to talk to me!](https://reach.at/hygorbudny)
 
 ![views](https://gpvc.arturio.dev/hygor)
 [![Twitter Badge](https://img.shields.io/twitter/follow/hygorbudny?hygorbudny)](https://twitter.com/hygorbudny)
