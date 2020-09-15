@@ -16,10 +16,9 @@ I prefer to hand-code my designs, and I like to do that with modern HTML, CSS, a
 <br />
 <br />
 
-### **I'm Currently [![See my Resume](https://img.shields.io/badge/-open%20to%20new%20opportunities-00fa9a?style=flat)](https://github.com/Hygor/hygor/wiki/Curriculum-Vitae)**
+### **I'm Currently [![See my Resume](https://img.shields.io/badge/-open%20to%20new%20opportunities-00fa9a?style=flat)](https://github.com/Hygor/hygor/wiki/Hygor-Budny-CV)**
 
-If you have a place with a flat environment where people are equally important, friendly and open-minded. A place where we can explore and see things from different perspectives to grow together. I will help you to design, code, build and upgrade your next digital experience.
-[Take a look at my Resume](https://github.com/Hygor/hygor/wiki/Curriculum-Vitae).
+[Take a look at my Resume](https://github.com/Hygor/hygor/wiki/Hygor-Budny-CV).
 
 
 ### **Let's connect**
